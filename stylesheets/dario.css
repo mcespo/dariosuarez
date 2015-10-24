@@ -1,0 +1,13 @@
+body {
+  background-color: #daede5; }
+  body #container {
+    position: relative; }
+    body #container .logo {
+      width: 100px;
+      height: 240px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin: 200px 0 0 -45px; }
+
+/*# sourceMappingURL=dario.css.map */
